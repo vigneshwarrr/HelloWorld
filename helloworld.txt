@@ -1,3 +1,6 @@
+Lines 1 and 3 are from git bash
 hello world! this is awkward
 
 another edit from main branch
+
+another edit from github
